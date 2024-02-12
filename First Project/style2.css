@@ -1,0 +1,25 @@
+#navbar {
+	background-color:  #7CB9E8;
+	overflow: hidden;
+}
+#navbar ul{
+	list-style-type: none; /*removes bulletpoint*/
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+#navbar li{
+	float: left;
+}
+#navbar a{
+	display: block;
+	color: white;
+	text-align: centre;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+#navbar a:hover {
+	background-color: #ffffff;
+	color: black;
+
+}

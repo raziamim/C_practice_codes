@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707305219 source:d:\web\class2\main.c
+	<stdio.h>
+	<stdlib.h>
+
