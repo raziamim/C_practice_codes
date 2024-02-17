@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708181350 source:d:\c\typeconversiontask\main.c
+	<stdio.h>
+	<stdlib.h>
+
