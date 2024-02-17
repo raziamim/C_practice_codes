@@ -3,7 +3,7 @@
 
 int main()
 {
-    int noodles = 5, costNoodles = 7, butter= 2, potato = 1;
+    int noodles = 5, costNoodles = 7, butter= 2, potato = 1 , costPotato = 15;
     float costButter = 29.91;
 
     printf("Number of noodles: %d\n",noodles);
@@ -11,7 +11,7 @@ int main()
     printf("Number of butter: %d\n",butter);
     printf("Cost of each butter: %.2f$\n",costButter);
     printf("Quantity of potato: %d kg\n",potato);
-    printf("Total cost= %.2f$",noodles*costNoodles+butter*costButter+potato);
+    printf("Total cost= %.2f$",noodles*costNoodles+butter*costButter+costPotato);
 
 
 
